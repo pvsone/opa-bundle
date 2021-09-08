@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "request": {
+      "http": {
+        "method": "GET",
+        "path": "/people/",
+        "headers": {
+          "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiZ3Vlc3QiLCJzdWIiOiJZV3hwWTJVPSIsIm5iZiI6MTUxNDg1MTEzOSwiZXhwIjoxNjQxMDgxNTM5fQ.K5DnnbbIOspRbpCr2IKXE9cPVatGOCBrBQobQmBmaeU"
+        }
+      }
+    }
+  }
+}
